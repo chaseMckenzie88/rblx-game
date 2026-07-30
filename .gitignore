@@ -1,0 +1,14 @@
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# rojo runtime output
+rojo.log
+rojo.err
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
